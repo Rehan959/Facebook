@@ -1,0 +1,28 @@
+#card img {
+  margin: auto;
+  width: 150px;
+}
+
+#card {
+  text-align: center;
+  padding: 40px;
+  margin: auto;
+  width: 300px;
+  box-shadow: 0 10px 40px -20px rgba(0, 0, 0, 0.2);
+}
+
+#card a {
+  background-color: #2586eb;
+  border: none;
+  outline-color: royalblue;
+  color: white;
+  padding: 8px 22px;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+#card p {
+  margin: 20px 0;
+  width: 100%;
+}
